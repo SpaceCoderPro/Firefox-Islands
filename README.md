@@ -1,3 +1,2 @@
 # Zen-Islands
-Opera tab islands but in Zen/any other Gecko based browsers
-In Firefox addons, its in review so link isnt working as of now...
+Opera tab islands but in Zen/any other Gecko based browsers, Works well, Report any bugs and pls rate... Contributions Welcome!
